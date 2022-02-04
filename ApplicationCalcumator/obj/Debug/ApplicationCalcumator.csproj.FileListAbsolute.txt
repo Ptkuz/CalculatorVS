@@ -1,0 +1,15 @@
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\bin\Debug\ApplicationCalcumator.exe.config
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\bin\Debug\ApplicationCalcumator.exe
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\bin\Debug\ApplicationCalcumator.pdb
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\obj\Debug\ApplicationCalcumator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\obj\Debug\ApplicationCalcumator.Form1.resources
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\obj\Debug\ApplicationCalcumator.Properties.Resources.resources
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\obj\Debug\ApplicationCalcumator.csproj.GenerateResource.cache
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\obj\Debug\ApplicationCalcumator.csproj.CoreCompileInputs.cache
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\obj\Debug\ApplicationCalcumator.exe
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\obj\Debug\ApplicationCalcumator.pdb
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\obj\Debug\ApplicationCalcumator.csproj.AssemblyReference.cache
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\bin\Debug\ApplicationCalcumator.exe.manifest
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\bin\Debug\ApplicationCalcumator.application
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\obj\Debug\ApplicationCalcumator.exe.manifest
+C:\Users\ptkuz\source\repos\ApplicationCalcumator\ApplicationCalcumator\obj\Debug\ApplicationCalcumator.application
